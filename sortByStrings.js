@@ -19,4 +19,7 @@ const sortByStrings = (str, order) => {
   return result;
 };
 
-/* feel free to check the live version of my code at https://repl.it/@GeorgeSS/sortByStrings */
+/*
+  feel free to check the live version of my code at:
+  https://repl.it/@GeorgeSS/sortByStrings
+*/
